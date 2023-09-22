@@ -1,1 +1,1 @@
-# STT_model_finetune
+# Whisper_model_finetune
