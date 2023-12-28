@@ -1,4 +1,4 @@
-# SNaiL/whisper_model
+# SNaiL-WhisperModel
 
 ## 개요
 - SNaiL(https://github.com/home-gravity/snail) 프로젝트의 음성인식모델
